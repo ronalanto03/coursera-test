@@ -31,7 +31,7 @@ body {
   color: black;
   background: #E7E7E7;
   text-align: center;
-  border: 1px solid black;
+  border: 2px solid black;
 
 }
 #nav-list a:hover {
